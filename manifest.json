@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+    "name": "Get Message WhatsApp",
+    "version": "1.0",
+    "content_scripts":[
+        {
+            "matches": ["https://web.whatsapp.com/"],
+            "js": ["Class/Mensaje.js","Class/Tabla.js","App/generarDataset.js","App/obtenerChat.js","content.js","App/generarResultado.js"],
+            "css": ["css/main.css"]
+        }
+    ],
+    "browser_action": {
+        "default_popup":"popup.html",
+        "default_icon": "visto.png"
+       }
+}
