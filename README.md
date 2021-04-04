@@ -28,10 +28,6 @@ _Navegador basado en Chromium_
 ## ❤️❤️❤️ Analisis Realizado (_Actividad durante horas_) ❤️❤️❤️
 <p align="center">
   <img width= "250px" src="Informe Generado/Informe 1.jpg">
-</p>
-<p align="center">
   <img width= "250px" src="Informe Generado/Informe 2.jpg">
-</p>
-<p align="center">
   <img width= "250px" src="Informe Generado/Informe 3.jpg">
 </p>
