@@ -12,17 +12,17 @@ _Navegador basado en Chromium_
 
 ## ❤️❤️❤️ Complemento (_Aspecto_) ❤️❤️❤️
 <p align="center">
-  <img width= "750px" src="Imagen Explicacion/imgComplemento.png">
+  <img width= "750px" src="Imagenes Explicacion/imgComplemento.png">
 </p>
 
 ## ❤️❤️❤️ Complemento Recopilando Información(_Mensaje de Finalización_) ❤️❤️❤️
 <p align="center">
-  <img width= "750px" src="Imagen Explicacion/imgFinalizadoRecopilacion.png">
+  <img width= "750px" src="Imagenes Explicacion/imgFinalizadoRecopilacion.png">
 </p>
 
 ## ❤️❤️❤️ Complemento Mostrando Información (_Tabla mostrada_) ❤️❤️❤️
 <p align="center">
-  <img width= "750px" src="Explicacion/imgMostrarRecopilacion.png">
+  <img width= "750px" src="Imagenes Explicacion/imgMostrarRecopilacion.png">
 </p>
 
 ## ❤️❤️❤️ Analisis Realizado (_Actividad durante horas_) ❤️❤️❤️
