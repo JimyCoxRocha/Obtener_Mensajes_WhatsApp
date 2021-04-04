@@ -1,5 +1,5 @@
 # Obtener Mensajes de Contactos de WhatsApp
-El complemento permite recopilar los mensajes registrados en un chat de WhatsApp con un **(formato cómodo para realizar análisis para aplicar Inteligencia de Negocio)**.
+El complemento permite recopilar los mensajes registrados en un chat de WhatsApp con un **formato cómodo para realizar análisis para aplicar Inteligencia de Negocio**.
 
 ## Pre-requisitos 📋
 _Navegador basado en Chromium_
