@@ -10,17 +10,17 @@ _Navegador basado en Chromium_
 * [CSS] - Para la presentación del documento.
 * [HTML] - Para la elaboración de páginas web.
 
-## ❤️❤️❤️ Complemento (_Aspecto_) ❤️❤️❤️
+### ❤️❤️❤️ Complemento (_Aspecto_) ❤️❤️❤️
 <p align="center">
   <img width= "150px" src="Imagenes Explicacion/imgComplemento.png">
 </p>
 
-## ❤️❤️❤️ Complemento Recopilando Información(_Mensaje de Finalización_) ❤️❤️❤️
+### ❤️❤️❤️ Complemento Recopilando Información(_Mensaje de Finalización_) ❤️❤️❤️
 <p align="center">
   <img width= "250px" src="Imagenes Explicacion/imgFinalizadoRecopilacion.png">
 </p>
 
-## ❤️❤️❤️ Complemento Mostrando Información (_Tabla mostrada_) ❤️❤️❤️
+### ❤️❤️❤️ Complemento Mostrando Información (_Tabla mostrada_) ❤️❤️❤️
 <p align="center">
   <img width= "250px" src="Imagenes Explicacion/imgMostrarRecopilacion.png">
 </p>
