@@ -26,7 +26,7 @@ _Navegador basado en Chromium_
 </p>
 
 **(Explicación)**
-* En la primera columna se refleja el número del chat al que estamos obteniendo los mensajes. Además, se hace un desgloce de mensajes que fueron citados (si los hay). Por último, se muestra que mensaje marcó el inicio de la conversación que facilitará al momento de realizar análisis junto con los datos de la hora y fecha.
+* En la primera columna se refleja el número del chat al que estamos obteniendo los mensajes. Además, se hace un desgloce de la información de mensajes que fueron citados (si los hay). Por último, se muestra que mensaje marcó el inicio de la conversación que facilitará al momento de realizar análisis junto con los datos de la hora y fecha.
 
 ## ❤️❤️❤️ Analisis Realizado con un Autómata de Python (_Actividad durante horas_) ❤️❤️❤️
 <p align="center">
@@ -36,4 +36,4 @@ _Navegador basado en Chromium_
 </p>
 
 **(Explicación)**
-* El complemento permite obtener los mensajes de varios chats a la vez, por lo tanto, con un autómata se puede obtener todos los mensajes para su posterior análisis tal y como se mostró en los informes de las horas de mayor actividad desde el Lunes y Martes.
+* El complemento permite obtener los mensajes de varios chats a la vez, por lo tanto, con un autómata se puede obtener todos los mensajes para su posterior análisis tal y como se mostró en los informes de las horas de mayor actividad desde el Lunes a Viernes.
