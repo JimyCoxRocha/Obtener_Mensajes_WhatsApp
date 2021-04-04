@@ -15,14 +15,14 @@ _Navegador basado en Chromium_
   <img width= "150px" src="Imagenes Explicacion/imgComplemento.png">
 </p>
 
-### ❤️❤️❤️ Complemento Recopilando Información(_Mensaje de Finalización_) ❤️❤️❤️
+### ❤️❤️❤️ Complemento Recopilando Información (_Mensaje de Finalización_) ❤️❤️❤️
 <p align="center">
-  <img width= "250px" src="Imagenes Explicacion/imgFinalizadoRecopilacion.png">
+  <img width= "350px" src="Imagenes Explicacion/imgFinalizadoRecopilacion.png">
 </p>
 
 ### ❤️❤️❤️ Complemento Mostrando Información (_Tabla mostrada_) ❤️❤️❤️
 <p align="center">
-  <img width= "250px" src="Imagenes Explicacion/imgMostrarRecopilacion.png">
+  <img width= "350px" src="Imagenes Explicacion/imgMostrarRecopilacion.png">
 </p>
 
 ## ❤️❤️❤️ Analisis Realizado (_Actividad durante horas_) ❤️❤️❤️
