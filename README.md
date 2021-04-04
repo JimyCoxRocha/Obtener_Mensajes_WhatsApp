@@ -12,7 +12,7 @@ _Navegador basado en Chromium_
 
 ## ❤️❤️❤️ Complemento (_Aspecto_) ❤️❤️❤️
 <p align="center">
-  <img width= "250px" src="Imagenes Explicacion/imgComplemento.png">
+  <img width= "150px" src="Imagenes Explicacion/imgComplemento.png">
 </p>
 
 ## ❤️❤️❤️ Complemento Recopilando Información(_Mensaje de Finalización_) ❤️❤️❤️
