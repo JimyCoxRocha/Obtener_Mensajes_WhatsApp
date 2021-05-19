@@ -35,5 +35,8 @@ _Navegador basado en Chromium_
   <img width= "250px" src="Informe Generado/Informe 3.jpg">
 </p>
 
-**(Explicación)**
+**(Conclusión)**
 * El complemento permite obtener los mensajes de varios chats a la vez, por lo tanto, con un autómata se puede obtener todos los mensajes para su posterior análisis tal y como se mostró en los informes de las horas de mayor actividad desde el Lunes a Viernes.
+
+**(Importancia)**
+* Dado que se ejecuta desde el navegador *(WhatsApp Web)*, no hay problema en que los empleados de una empresa de compra y venta puedan realizar analisis con la finalidad de optimizar la inversión en publicidad de Facebook sin necesidad de instalar *oftware de terceros *invasivo* en sus dispositivos.
